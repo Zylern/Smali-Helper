@@ -1,5 +1,5 @@
 # Smali Helper
-A simple android app which will help you to learn Smali Opcodes.
+A simple android app which will help you to learn Smali Opcodes.\n
 The codes used in this app belongs to *Virtuos Ten Studio* and i will take no credit for their content.
 
 ## Screenshots
