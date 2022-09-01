@@ -1,7 +1,7 @@
 # Smali Helper
 A simple android app which will help you to learn Smali Opcodes.
 
-The codes used in this app belongs to *Virtuos Ten Studio* and i will take no credit for their content.
+The codes explanations used in this app belongs to *Virtuos Ten Studio* and i will take no credit for their content.
 
 ## Screenshots
 <img src="https://i.imgur.com/0JsWFB5.jpg" Height=40% Width=44% HSPACE=5> <img src="https://i.imgur.com/fxRmF5O.jpg" ALIGN = "right" Height=40% Width=44% VSPACE=10>
